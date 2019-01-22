@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Алина Бреева](https://up.htmlacademy.ru/htmlcss/24/user/950677).
-* Наставник: `Неизвестно`.
+* Наставник: 'Александр Юдин'(https://htmlacademy.ru/profile/a-yudin).
 
 ---
 
