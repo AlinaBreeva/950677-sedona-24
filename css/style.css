@@ -1,1 +1,45 @@
+body {
+  margin: 0;
 
+  font-family: 'PT Sans Narrow', Arial, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #000000;
+  text-transform: uppercase;
+
+  background-color: #ffffff;
+  background-image: url("img/logo.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+
+  a {
+    text-decoration: none;
+  }
+
+  .main-navigation {
+    font-size: 15px;
+    line-height: 20px;
+    color: #ffffff;
+
+    background-color: grey;
+  }
+
+  .site-navigation,
+  .user-navigation {
+    list-style: none;
+  }
+
+  .features-list {
+    list-style: none;
+  }
+
+  .feature-item {
+    text-align: center;
+  }
+
+  .feature-item {
+    font-size: 21px;
+    line-height: 1.24px;
+  }
+}
